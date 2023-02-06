@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "pathPage": "home",
+      "data": {
+        "@context": "https://schema.org",
+        "@type": "Corporation",
+        "name": "Livelo",
+        "url": "https://www.livelo.com.br/",
+        "logo": "https://www.livelo.com.br/file/general/pt_logo-v1.svg",
+        "sameAs": [
+          "https://www.facebook.com/livelooficial/",
+          "https://www.instagram.com/livelo/",
+          "https://www.youtube.com/c/LIVELO",
+          "https://twitter.com/falecomlivelo"
+        ]
+      }
+    }
+  ]
+}
