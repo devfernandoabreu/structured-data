@@ -1,7 +1,8 @@
 {
   "posts": [
     {
-      "id": "home",
+      "id": 1,
+      "path": "home"
       "data": [
         {
           "@context": "https://schema.org",
