@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "path": "home"
+      "path": "home",
       "data": [
         {
           "@context": "https://schema.org",
